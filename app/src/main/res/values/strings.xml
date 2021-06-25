@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Information Department Phonebook</string>
+    <string name="textview1">Dr. Shamantha Rai B </string>
+    <string name="textview2">Dr. Naveen Kumar B</string>
+    <string name="textview3">Mr. Janardhana D R </string>
+    <string name="textview4">Mr. Bhukya Kranthikumar</string>
+    <string name="textview6">Ms. Jayapadmini Kanchan</string>
+    <string name="textview7">Mr. Naitik S. T</string>
+    <string name="textview8">Ms. Madhura Hegde</string>
+    <string name="textview9">Mrs. Suchetha. G</string>
+    <string name="textview10">Mr. Vasudeva Rao. P. V </string>
+    <string name="textview11">Mrs. Shwetha S Shetty</string>
+    <string name="textview12">Ms. Asha B Shetty</string>
+    <string name="textview13">Mr. Ganaraj K</string>
+    <string name="textview14">Mrs. Harinakshi C</string>
+    <string name="textview15">Mrs. Masooda</string>
+    <string name="textview16">Ms. Vasudha G Rao </string>
+
+    <string name="textviewa">9986407821</string>
+    <string name="textviewb">9743750743</string>
+    <string name="textviewc">9663429872</string>
+    <string name="textviewd">9995131269</string>
+    <string name="textviewg">9535667372</string>
+    <string name="textviewh">8296502878</string>
+    <string name="textviewi">9986429412</string>
+    <string name="textviewj">9480251499</string>
+    <string name="textviewk">8217894079</string>
+    <string name="textviewl">8105869558</string>
+    <string name="textviewm">9496785133</string>
+    <string name="textviewn">8086714071</string>
+    <string name="textviewo">9945781605</string>
+    <string name="textviewp">8792731028</string>
+    <string name="textviewq">9480572892</string>
+
+</resources>
